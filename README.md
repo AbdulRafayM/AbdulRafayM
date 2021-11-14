@@ -1,5 +1,5 @@
 <img src="Twitter/banner.png">
-### Hi there 👋
+<b> Hi there 👋 </br> <br>
 <b>Founder Of <a href="https://Twitter.countrywhale.com">Country Whale🐳</a>
   <br>
  
