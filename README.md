@@ -8,10 +8,15 @@ Thus There Will Be a Grand Total of 200 Whales🐳 NFTs, So These All Whales🐳
 
 <br>
   <b>Social Media🌐</b>
+  <br>
     <a href="https://twitter.com/abdulrafay_m">TWITTER</a>
+    <br>
       <a href="https://www.instagram.com/callme_abdulrafay/">INSTAGRAM</a>
+      <br>
       <a href="https://www.facebook.com/AbdulRafay.MA/">FACEBOOK</a>
+      <br>
       <a href="https://t.me/AbdulRafay_M">TELEGRAM</a>
+      <br>
 
 - 👀 I’m interested in NFTs
 - 💞️ I’m looking to collaborate With NFTs Promoters To Promote my NFTs
